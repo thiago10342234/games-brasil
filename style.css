@@ -11,8 +11,11 @@
     justify-content: center ;
     flex-direction: row;
     list-style: none;   /* remove os dots */
-    color:black;
+    colocontainer_servicosr:black;
     .background-color: blue;
+}
+.container_servicos{
+  background-color:blue;
 }
 nav{
     display: flex; /* Permite organizar os elementos HTML*/
