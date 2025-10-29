@@ -12,10 +12,10 @@
     flex-direction: row;
     list-style: none;   /* remove os dots */
     colocontainer_servicosr:black;
-    .background-color: blue;
+    .background-color: #1A11F0;
 }
 .container_servicos{
-  background-color:blue;
+  background-color:#1A11F0;
 }
 nav{
     display: flex; /* Permite organizar os elementos HTML*/
